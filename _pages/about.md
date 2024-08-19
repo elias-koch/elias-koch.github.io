@@ -24,4 +24,4 @@ My research focusses on party behaviour and parliamentary politics in establishe
 
 Before starting my PhD, I obtained a BA and MA in Social Science from [Humboldt-University Berlin](https://www.hu-berlin.de/en/) and visited [King's College London](https://www.kcl.ac.uk/) for studies abroad.
 
-On this website, you can learn more about my research and download my CV. If you think we might have similar interests or want to discuss my work over a coffee, feel free to reach out!
+On this website, you can learn more about my research and download my CV. If you think we might have similar interests or want to have a chat over a coffee, feel free to reach out!
