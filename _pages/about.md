@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hertie School</p>
+    <p>Hertie School (DYNAMICS RTG)</p>
     <p>Friedrichstrasse 180</p>
     <p>10117 Berlin, Germany</p>
 
