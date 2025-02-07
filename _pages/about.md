@@ -24,4 +24,4 @@ My research focusses on party behaviour and parliamentary politics in establishe
 
 Before starting my PhD, I obtained a BA and MA in Social Science from [Humboldt-University Berlin](https://www.hu-berlin.de/en/) and visited [King's College London](https://www.kcl.ac.uk/) for studies abroad.
 
-On this website, you can learn more about my research and download my CV. Please feel free to reach out if you think we might share research interests or if you’d like to talk about the latest Werder Bremen matches over a coffee. I’d be happy to [connect](mailto:e.koch@hertie-school.org)!
+On this website, you can learn more about my research and download my CV. Please feel free to reach out, I’d be happy to [connect](mailto:e.koch@hertie-school.org)!
