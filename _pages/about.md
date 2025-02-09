@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm a Doctoral Candidate at the [Research Training Group DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics), which is jointly organised by the [Hertie School](https://www.hertie-school.org/en/) and the [Humboldt-University Berlin](https://www.hu-berlin.de/en/). At the Hertie School, I'm affiliated with the Research Project on "Election Forecasts for the German Federal Election 2025" as a Research Associate.
+Welcome! I'm a 1st year Doctoral Candidate at the [Research Training Group DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics), which is jointly organised by the [Hertie School](https://www.hertie-school.org/en/) and the [Humboldt-University Berlin](https://www.hu-berlin.de/en/). At the Hertie School, I'm affiliated with the Research Project on "Election Forecasts for the German Federal Election 2025" as a Research Associate.
 
 My research focusses on party behaviour and parliamentary politics in established democracies, engaging with work on public opinion. In my dissertation project, which is supervised by [Prof. Dr. Simon Munzert](https://simonmunzert.com/) and [Prof. Dr. Heike Klüver](https://www.heike-kluever.com/), I study the behavioural and attitudinal consequences of election polls among political elites, voters, and the media. Methodologically, I specialise in econometric and experimental approaches within the social sciences, as well as in techniques for quantitative text analysis.
 
