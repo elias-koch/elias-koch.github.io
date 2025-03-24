@@ -25,3 +25,24 @@
 "ivanusch":
   - firstname: ["Christoph"]
     url: https://www.wzb.eu/de/personen/christoph-ivanusch
+
+  "Erfort":
+  - firstname: ["Cornelius"]
+    url: https://corneliuserfort.de/
+
+  "Stoetzer":
+  - firstname: ["Lukas"]
+    url: https://www.lukas-stoetzer.org/
+
+  "Munzert":
+  - firstname: ["Simon"]
+    url: https://simonmunzert.com/
+
+"Rajski":
+  - firstname: ["Hannah"]
+    url: https://www.uni-mannheim.de/gess/programs/cdss/our-students/2022/hannah-rajski/
+
+"Gschwend":
+  - firstname: ["Thomas"]
+    url: https://www.sowi.uni-mannheim.de/gschwend/
+
