@@ -9,18 +9,6 @@ cv_pdf: CV_Koch.pdf
 #toc:
 #  sidebar: left
 ---
-<h1 class="post-title">{{ page.title }}</h1>
-{% if page.cv_pdf %}
-  <a
-    href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="float: right; font-size: 1.5rem; color: red;"
-    title="Download CV"
-    download
-  >
-    <i class="fa-solid fa-file-pdf"></i>
-  </a>
-{% endif %}
+<a href="/assets/pdf/CV_Koch.pdf" download="CV_Koch.pdf">Press here to download my CV</a>
 
 <iframe src="/assets/pdf/CV_Koch.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
