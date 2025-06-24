@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 permalink: /CV/
 title: CV
 nav: true
@@ -9,4 +9,5 @@ cv_pdf: CV_Koch.pdf
 #toc:
 #  sidebar: left
 ---
+
 <iframe src="/assets/pdf/CV_Koch.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
