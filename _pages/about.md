@@ -6,14 +6,15 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile.jpg
+  image_circular: false # crops the image to make it circular (updated)
+  # Force ImageMagick processing by referencing the image directly
   more_info: >
     <p>Hertie School (DYNAMICS RTG)</p>
     <p>Friedrichstrasse 180</p>
     <p>10117 Berlin, Germany</p>
 
-news: false # includes a list of news items
+news: false # includes list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
