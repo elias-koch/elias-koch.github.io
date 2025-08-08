@@ -390,8 +390,6 @@ imagemagick:
   output_formats:
     webp: "-quality 85"
 
-
-
 # Lazy loading images
 #   If you enable lazy loading, all images will add the loading="lazy" attribute.
 #   This will make your site load faster, but it may not be supported in all browsers.
