@@ -26,3 +26,6 @@ My research focusses on party competition and political behaviour in established
 Before starting my PhD, I received a BA and an MA in Social Science from [Humboldt-University Berlin](https://www.hu-berlin.de/en/) and visited [King's College London](https://www.kcl.ac.uk/) for studies abroad.
 
 On this website, you can learn more about my research and download my CV. Please feel free to reach out, I’d be happy to [connect](mailto:e.koch@hertie-school.org)!
+
+On this website, you can learn more about my research and download my [CV](https://elias-koch.com/CV/). Please feel free to reach out, I’d be happy to [connect](mailto:e.koch@hertie-school.org)!
+
