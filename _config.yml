@@ -253,7 +253,6 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll_picture_tag
 
 # Sitemap settings
 defaults:
@@ -391,13 +390,7 @@ imagemagick:
   output_formats:
     webp: "-quality 85"
 
-# Jekyll Picture Tag Configuration
-# -----------------------------------------------------------------------------
-picture_tag:
-  formats: [webp, original]
-  widths: [480, 800, 1400]
-  quality: 85
-  suppress_warnings: true
+
 
 # Lazy loading images
 #   If you enable lazy loading, all images will add the loading="lazy" attribute.

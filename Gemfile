@@ -18,7 +18,6 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'jekyll_picture_tag'
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
