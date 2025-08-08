@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular (updated) - force redeploy
+  image_circular: false # crops the image to make it circular (updated) - force redeploy v3 - clean build
   # Force ImageMagick processing by referencing the image directly
   more_info: >
     <p>Hertie School (DYNAMICS RTG)</p>
