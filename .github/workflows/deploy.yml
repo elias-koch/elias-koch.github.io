@@ -80,7 +80,10 @@ jobs:
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
       - name: Install ImageMagick and libvips
-        run: sudo apt-get update && sudo apt-get install -y imagemagick libvips-dev
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick libvips-dev libvips42 libvips-tools
+          sudo ldconfig
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
