@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm a 1st year Doctoral Candidate at the [Research Training Group DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics), which is jointly organised by the [Hertie School](https://www.hertie-school.org/en/) and [Humboldt-University Berlin](https://www.hu-berlin.de/en/). At the Hertie School, I'm affiliated with the Research Project on "Election Forecasts for the German Federal Election 2025" as a Research Associate.
+Welcome! I'm a Doctoral Candidate at the [Research Training Group DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics), which is jointly organised by the [Hertie School](https://www.hertie-school.org/en/) and [Humboldt-University Berlin](https://www.hu-berlin.de/en/). At the Hertie School, I'm affiliated with the Research Project on "Election Forecasts for the German Federal Election 2025" as a Research Associate.
 
-My research focusses on party competition and political behaviour in established democracies, engaging with work on public opinion. In my dissertation project, which is supervised by [Prof. Dr. Simon Munzert](https://simonmunzert.com/) and [Prof. Dr. Heike Klüver](https://www.heike-kluever.com/), I study the behavioural and attitudinal consequences of election polling. Methodologically, I specialise in econometrics, experimental designs, and quantitative text analysis.
+My research explores party competition and political behaviour in established democracies, with a particular focus on public opinion dynamics. In my dissertation project, which is supervised by [Prof. Dr. Simon Munzert](https://simonmunzert.com/) and [Prof. Dr. Heike Klüver](https://www.heike-kluever.com/), I study the behavioural and attitudinal consequences of election polling. Methodologically, I specialise in econometrics, experimental designs, and quantitative text analysis.
 
 Before starting my PhD, I received a BA and an MA in Social Science from [Humboldt-University Berlin](https://www.hu-berlin.de/en/) and visited [King's College London](https://www.kcl.ac.uk/) for studies abroad.
 
-On this website, you can learn more about my research and download my [CV](https://elias-koch.com/CV/). Please feel free to reach out, I’d be happy to [connect](mailto:e.koch@hertie-school.org)!
+On this website, you can learn more about my [research](https://elias-koch.com/publications) and download my [CV](https://elias-koch.com/CV/). Please feel free to reach out, I’d be happy to [connect](mailto:e.koch@hertie-school.org)!
 
