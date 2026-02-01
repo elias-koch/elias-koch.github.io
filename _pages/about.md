@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm a Doctoral Candidate at the [Research Training Group DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics), which is jointly organised by the [Hertie School](https://www.hertie-school.org/en/) and [Humboldt-University Berlin](https://www.hu-berlin.de/en/). At the Hertie School, I'm affiliated with the Research Project on "Election Forecasts for the German Federal Election 2025" as a Research Associate.
+Welcome! I'm a Doctoral Candidate at the [Research Training Group DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics), which is jointly organised by the [Hertie School](https://www.hertie-school.org/en/) and [Humboldt-University Berlin](https://www.hu-berlin.de/en/). At the Hertie School, I'm affiliated with the Research Project on "Election Forecasts for the German Federal Election 2025" as a Research Associate. During Hilary Term 2027, I will join the [University of Oxford](https://www.ox.ac.uk/) ([DPIR](https://www.politics.ox.ac.uk/)/[Nuffield College](https://www.nuffield.ox.ac.uk/)) as a Junior Visiting Scholar, hosted by [Prof. Dr. Tarik Abou-Chadi](https://www.tarikabouchadi.net/).
 
 My research explores party competition and political behaviour in established democracies, with a particular focus on public opinion dynamics. In my dissertation project, which is supervised by [Prof. Dr. Simon Munzert](https://simonmunzert.com/) and [Prof. Dr. Heike Klüver](https://www.heike-kluever.com/), I study the behavioural and attitudinal consequences of election polling. Methodologically, I specialise in econometrics, experimental designs, and quantitative text analysis.
 
