@@ -15,7 +15,7 @@ profile:
     <p>10117 Berlin, Germany</p>
 
 news: false # includes list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes papers marked as "selected={true}" in the order listed in _includes/selected_papers.liquid
 social: true # includes social icons at the bottom of the page
 ---
 

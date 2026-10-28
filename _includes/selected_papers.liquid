@@ -1,3 +1,5 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  {% comment %} Homepage order of selected papers; an entry is shown only if it is listed here AND has selected={true} {% endcomment %}
+  {% nocite koch_opp_2026 kochkupfer2025 kochetal2026 koch_statepol_2024 -f papers -f workingpapers %}
+  {% bibliography -f papers -f workingpapers --group_by none --query @*[selected=true]* --cited_in_order %}
 </div>
