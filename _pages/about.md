@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! I'm a political scientist and Doctoral Candidate at the [Research Training Group DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics), jointly organised by the [Hertie School](https://www.hertie-school.org/en/) and [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en/).
 
-My research explores party competition and political behaviour in established democracies. More recently, I have turned to how these dynamics change when liberal democracy itself is contested: when parties seek to preserve or alter the institutions, norms, and procedures that structure political competition. Methodologically, I specialise in econometrics, experimental designs, and quantitative text analysis.
+My research explores party competition and political behaviour in established democracies. More recently, I have turned towards how these dynamics change when the political system itself becomes contested: when parties seek to preserve or alter the institutions, norms, and procedures that structure political competition. Methodologically, I specialise in econometrics, experimental designs, and quantitative text analysis.
 
 Before starting my PhD, I received a BA and an MA in Social Science from Humboldt-Universität zu Berlin and visited [King's College London](https://www.kcl.ac.uk/) for a term abroad.
 
