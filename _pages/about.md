@@ -23,7 +23,7 @@ Welcome! I'm a political scientist and Doctoral Candidate at the [Research Train
 
 My research explores party competition and political behaviour in established democracies. More recently, I have turned to how these dynamics change when liberal democracy itself is contested: when parties seek to preserve or alter the institutions, norms, and procedures that structure political competition. Methodologically, I specialise in econometrics, experimental designs, and quantitative text analysis.
 
-Before starting my PhD, I received a BA and an MA in Social Science from Humboldt-Universität zu Berlin and spent a study period at [King's College London](https://www.kcl.ac.uk/).
+Before starting my PhD, I received a BA and an MA in Social Science from Humboldt-Universität zu Berlin and visited [King's College London](https://www.kcl.ac.uk/) for a term abroad.
 
 On this website, you can learn more about my [research](https://elias-koch.com/publications) and download my [CV](https://elias-koch.com/CV/). Please feel free to reach out, I'd be happy to [connect](mailto:e.koch@hertie-school.org)!
 
